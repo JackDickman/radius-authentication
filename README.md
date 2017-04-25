@@ -5,7 +5,8 @@ PROJECT:	CSC424 Radius Authentication
 Description:	The program runs as either client or server, depending on the whether the -h option is present. 
 		If server, the password-file is opened and the servers listens on a listen port number given 
 		after the -p flag. If client, the username and password given after the -h flag are authenticated
-		to the server, and YES or NO is printed.
+		to the server, and YES or NO is printed. This is a simplified implementation of what is described
+		in RFC 2865.
 		
 Targets:	build, test-server, test-client, clean
 
