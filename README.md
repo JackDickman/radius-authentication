@@ -1,6 +1,6 @@
-AUTHOR:		    Jack Dickman
+AUTHOR:		Jack Dickman
 LAST UPDATED:	April 24, 2017
-PROJECT:		  CSC424 Radius Authentication
+PROJECT:	CSC424 Radius Authentication
 
 
 Description:	The program runs as either client or server, depending on the whether the -h option is present. 
